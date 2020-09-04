@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ef63ee16-72e0-4504-a304-bbdf5fde42e8",
+    "Name": "ITSSchema3Detail",
+    "ModifiedOnUtc": "\/Date(1583334237000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема деталі: \"Analogue\"",
+    "DependsOn": []
+  }
+}

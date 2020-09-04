@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "316fc938-bab5-4e63-9a02-411b664942d4",
+    "Name": "ITSSendInvoice",
+    "ModifiedOnUtc": "\/Date(1572449476000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Sending an invoice",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "33821b23-cc07-4f56-a60a-1d7fb5d3d752",
+    "Name": "ITSSamplesReceivedDetail",
+    "ModifiedOnUtc": "\/Date(1583418251000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Base object",
+    "DependsOn": []
+  }
+}

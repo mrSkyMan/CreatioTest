@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ActivityUserTask1.Caption" Value="Презентувати  КП" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Account.Caption" Value="Контрагент" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Account.DisplayValue" Value="[#Читати дані продажі.Перший елемент результуючої колекції.Контрагент#]" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityCategory.Caption" Value="Категорія" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ActivityResult.Caption" Value="Результат активності" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Application.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Case.Caption" Value="Звернення" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Change.Caption" Value="Зміна" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Contact.DisplayValue" Value="[#Читати дані продажі.Перший елемент результуючої колекції.Контакт#]" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Contract.Caption" Value="Договір" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.CurrentActivityId.Caption" Value="Id задачі" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Document.Caption" Value="Документ" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Duration.Caption" Value="Тривалість" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.DurationPeriod.Caption" Value="Тривалість (період)" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.DurationPeriod.DisplayValue" Value="хвилин" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ExecutionContext.Caption" Value="Контекст виконання" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.FinApplication.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Incident.Caption" Value="Інцидент" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.InformationOnStep.Caption" Value="Інформація по кроку" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Invoice.Caption" Value="Рахунок" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.IsActivityCompleted.Caption" Value="Активність завершено" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Lead.Caption" Value="Лід" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Listing.Caption" Value="Лістинги" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Opportunity.Caption" Value="Продаж" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Opportunity.DisplayValue" Value="[#Читати дані продажі.Перший елемент результуючої колекції.Id#]" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Order.Caption" Value="Замовлення" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.OwnerId.Caption" Value="Відповідальний" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.OwnerId.DisplayValue" Value="[#Читати дані продажі.Перший елемент результуючої колекції.Відповідальний#]" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Problem.Caption" Value="Проблема" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Project.Caption" Value="Проект" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Property.Caption" Value="Об'єкт нерухомості" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.QueueItem.Caption" Value="Елемент черги" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Recommendation.Caption" Value="Рекомендація" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Recommendation.DisplayValue" Value="Презентувати  КП" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Recommendation.Value" Value="Презентувати  КП" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Release.Caption" Value="Реліз" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBefore.Caption" Value="За скільки часу  нагадувати відповідальному" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBefore.DisplayValue" Value="1" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBeforePeriod.Caption" Value="За скільки часу нагадувати відповідальному (період)" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="хвилин" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.Requests.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowExecutionPage.Caption" Value="Показувати сторінку виконання автоматично" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.ShowInScheduler.Caption" Value="Відображати в розкладі" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartIn.Caption" Value="Через скільки часу почати виконання" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartInPeriod.Caption" Value="Через скільки почати виконання (період)" />
+			<Item Name="BaseElements.ActivityUserTask1.Parameters.StartInPeriod.DisplayValue" Value="хвилин" />
+			<Item Name="BaseElements.ActivityUserTask2.Caption" Value="Підготувати зразки продукції" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Account.Caption" Value="Контрагент" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Account.DisplayValue" Value="[#Читати дані продажі.Перший елемент результуючої колекції.Контрагент#]" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityCategory.Caption" Value="Категорія" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ActivityResult.Caption" Value="Результат активності" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Application.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Case.Caption" Value="Звернення" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Change.Caption" Value="Зміна" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Contact.DisplayValue" Value="[#Читати дані продажі.Перший елемент результуючої колекції.Контакт#]" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Contract.Caption" Value="Договір" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.CurrentActivityId.Caption" Value="Id задачі" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Document.Caption" Value="Документ" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Duration.Caption" Value="Тривалість" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Duration.DisplayValue" Value="30" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.DurationPeriod.Caption" Value="Тривалість (період)" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.DurationPeriod.DisplayValue" Value="хвилин" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ExecutionContext.Caption" Value="Контекст виконання" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.FinApplication.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Incident.Caption" Value="Інцидент" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.InformationOnStep.Caption" Value="Інформація по кроку" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Invoice.Caption" Value="Рахунок" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.IsActivityCompleted.Caption" Value="Активність завершено" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Lead.Caption" Value="Лід" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Listing.Caption" Value="Лістинги" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Opportunity.Caption" Value="Продаж" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Opportunity.DisplayValue" Value="[#Читати дані продажі.Перший елемент результуючої колекції.Id#]" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Order.Caption" Value="Замовлення" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.OwnerId.Caption" Value="Відповідальний" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.OwnerId.DisplayValue" Value="[#Читати дані продажі.Перший елемент результуючої колекції.Відповідальний#]" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Problem.Caption" Value="Проблема" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Project.Caption" Value="Проект" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Property.Caption" Value="Об'єкт нерухомості" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.QueueItem.Caption" Value="Елемент черги" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Recommendation.Caption" Value="Рекомендація" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Recommendation.DisplayValue" Value="Підготувати зразки продукції" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Recommendation.Value" Value="Підготувати зразки продукції" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Release.Caption" Value="Реліз" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBefore.Caption" Value="За скільки часу  нагадувати відповідальному" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBefore.DisplayValue" Value="15" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBeforePeriod.Caption" Value="За скільки часу нагадувати відповідальному (період)" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.RemindBeforePeriod.DisplayValue" Value="хвилин" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.Requests.Caption" Value="Заявка" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ShowExecutionPage.Caption" Value="Показувати сторінку виконання автоматично" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.ShowInScheduler.Caption" Value="Відображати в розкладі" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartIn.Caption" Value="Через скільки часу почати виконання" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartInPeriod.Caption" Value="Через скільки почати виконання (період)" />
+			<Item Name="BaseElements.ActivityUserTask2.Parameters.StartInPeriod.DisplayValue" Value="хвилин" />
+			<Item Name="BaseElements.CallUserTask1.Caption" Value="Зв'язатися з клієнтом для отримання коментарів та узгодження КП" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Account.Caption" Value="Контрагент" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.ActivityCategory.Caption" Value="Категорія" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.ActivityResult.Caption" Value="Результат активності" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Case.Caption" Value="Звернення" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Change.Caption" Value="Зміна" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Contract.Caption" Value="Договір" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.CurrentActivityId.Caption" Value="Id задачі" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Document.Caption" Value="Документ" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Duration.Caption" Value="Тривалість" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.DurationPeriod.Caption" Value="Тривалість (період)" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.ExecutionContext.Caption" Value="Контекст виконання" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Incident.Caption" Value="Інцидент" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.InformationOnStep.Caption" Value="Інформація по кроку" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Invoice.Caption" Value="Рахунок" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.IsActivityCompleted.Caption" Value="Активність завершено" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Lead.Caption" Value="Лід" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Listing.Caption" Value="Лістинг" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Opportunity.Caption" Value="Продаж" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Order.Caption" Value="Замовлення" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.OwnerId.Caption" Value="Відповідальний" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Problem.Caption" Value="Проблема" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Project.Caption" Value="Проект" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Property.Caption" Value="Об'єкт нерухомості" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.QueueItem.Caption" Value="Елемент черги" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Recommendation.Caption" Value="Рекомендація" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Recommendation.DisplayValue" Value="Зв'язатися з клієнтом для отримання коментарів та узгодження КП" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Recommendation.Value" Value="Зв'язатися з клієнтом для отримання коментарів та узгодження КП" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Release.Caption" Value="Реліз" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.RemindBefore.Caption" Value="За скільки часу  нагадувати відповідальному" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.RemindBeforePeriod.Caption" Value="За скільки часу нагадувати відповідальному (період)" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.Requests.Caption" Value="Заявки" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.ShowExecutionPage.Caption" Value="Показувати сторінку виконання автоматично" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.ShowInScheduler.Caption" Value="Відображати в розкладі" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.StartIn.Caption" Value="Через скільки часу почати виконання" />
+			<Item Name="BaseElements.CallUserTask1.Parameters.StartInPeriod.Caption" Value="Через скільки почати виконання (період)" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Встановити стадію Надсилання зразків продукції" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Фільтри джерела даних" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Об'єкт" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="Якщо об'єкт відповідає умовам" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Значення полів" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Завершено" />
+			<Item Name="BaseElements.ConditionalSequenceFlow2.Caption" Value="Передзвонити пізніше, Немає відповіді" />
+			<Item Name="BaseElements.ConditionalSequenceFlow3.Caption" Value="Завершено, Скасовано" />
+			<Item Name="BaseElements.ConditionalSequenceFlow4.Caption" Value="Скасовано, Виконано" />
+			<Item Name="BaseElements.IntermediateCatchSignal1.Caption" Value="Змінено стадію на відмінну від КП" />
+			<Item Name="BaseElements.IntermediateCatchSignal1.Parameters.RecordId.DisplayValue" Value="[#Читати дані продажі.Перший елемент результуючої колекції.Id#]" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Читати дані продажі" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Ім'я колонки для агрегуючої функції" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Виконувати &quot;брудне читання&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Враховувати час у фільтрі" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Джерело даних фільтрів" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Перелік колонок для читання" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Тип агрегуючої функції" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Не читати значення колонок Довідників, що відображаються" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Кількість записів для читання" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Порядок сортування колонок" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Читати перші" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Колекція записів" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Кількість записів" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Результат функції" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="Перший елемент результуючої колекції" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Результуюча колекція" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Результат функції" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Результат функції" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Кількість прочитаних записів" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Тип результату" />
+			<Item Name="BaseElements.StartSignal1.Caption" Value="Встановлена стадія в продажі КП" />
+			<Item Name="Caption" Value="Комерційна пропозиція v7.8.0" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="Пул 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#[PropertyValue:Caption]#]" />
+		</Items>
+	</Group>
+</Resources>

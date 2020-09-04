@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ba1cf391-df90-47d2-86ef-432731e9b603",
+    "Name": "ITSProposal780",
+    "ModifiedOnUtc": "\/Date(1572449046000)\/",
+    "Parent": {
+      "UId": "b56d5e4f-2654-4089-861c-73562efe590f",
+      "Name": "Proposal780"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Proposal v7.8.0",
+    "DependsOn": []
+  }
+}

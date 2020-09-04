@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схема раздела: &quot;Лиды&quot;" />
+			<Item Name="Images.519ffd01-37e2-4dfc-a922-7246bf614dda.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjAgMjAiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzgwOTViMyIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIj48Y2lyY2xlIGN4PSI5LjUiIGN5PSI3LjUiIHI9IjEiLz48cGF0aCBkPSJtMTYuNiA4LjRjMCAxLjEtMS41IDMuMS0xLjUgMy4xLTEuMiAxLjctLjYgMy0uNiAzLTIuNS41LTQuNSAzLTQuNSAzLS4zLS41LTEuMi0xLjctMS4yLTEuNy0uNS0uNi0xLjMtLjQtMS43LS4zLTEuMy4yLTEuNi0uMi0xLjYtLjItLjMtLjItLjEtLjktLjEtLjkuMS0uNC0uMS0uNS0uMi0uNy0uMy0uNC0uMS0uNi0uMS0uNi4xLS4xIDAtLjIgMC0uMi0uMy0uMS0uMy0uMy0uMy0uM3YtLjZjMC0uNC0uMS0uNC0uMS0uNC0uNy4xLS43LS4zLS43LS4zIDAtLjMuOC0xLjguOC0xLjguNC0uNy0uMi0xLjItLjItMS41LS4yLTEuOC40LTIuOSAxLjMtMy44IDEuMy0xLjQgMy4xLTEuNyA0LjItMS43IDIuOSAwIDQuMSAxIDUgMS45IDEuOSAyLjEgMS41IDQgMS41IDR6Ii8+PGNpcmNsZSBjeD0iOS41IiBjeT0iNy41IiByPSIyLjUiLz48Y2lyY2xlIGN4PSIxMy41IiBjeT0iOC41IiByPSIxIi8+PC9nPjwvc3ZnPg==" />
+			<Item Name="Images.584a9d26-b5e7-46c9-8d46-1647c5119fe6.Image" Type="Image" Value="iVBORw0KGgoAAAANSUhEUgAAADYAAAA2CAYAAACMRWrdAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALDAAACwwBP0AiyAAABEdJREFUaEPdmk9uUzEQh3uE3oAcgQsgcYQeoUfoEThCjtANKzZdsQGJIhZdIKCCBUgIgdQFQkhQCSQkWDzmczKp4/yS539Ro1j6+p7Hz2PPG3vs+uVgGIZuHDx7ODGOjalxblwbwxoo4xmepc5E6axFCkuwDh0aJ8aloQwoAR3oOlRtlSCFOVjjeOfUUB3sAbqrvSiFm7DG8BDDR3VmG9BWsQelcB3WwJGxad5sC9o8Un1ahxQqTPE2h10up6pvCimMMWUMvR6BoRf0ZXRoSqGDgrki1cBtMmqcFAIV5wqU4l1go3FSCPOKSuEucan6Dlq4G4EiFxlQVgWzkK4U7DIrS8FyZjavuqxTx+8vhtOvn4bLXz9M9XJCdvb9ajj5+Gq4+/KxrF8IfV6ab6lhzTsKOnv972/oPPf33zxdeQaZG86z5z+/yecKmS7ZEhnF3k9VyOLwxaPQwS9/fhd1knoPPr8NBnJVzxSw2FvGhlUHDDqHh/AA9+qZMRiSvBR0qPJMFoHEjWJuqQezYL6AKiMpuYKXgucYwqo8kzDX3DD+B1IPjcJc4U27p8gDea6kOA+pjhg8R2oIKidWfWFY9WLMEIw768bw5jHY5x150phhwFyjnirLICzaTUFjcnEWOhzLfDgxVwgidJKrR0D37BilQShhgmGcN6jCUWg4fbN4xDtF4p5Envscj8H06kNLIDnGsOq1i0keBw1PyPAUhiDn6sPLE4a68Ufvnod71wPkGeaxrIAphnFSpApHoUM1HovL8Ez8TKyLFOcLOMew6i2Urz2xLGeOuZF3bI4i50qeFxXrajDsGsNUQTZ0KH7TeISEEZQxLLmSJ3k5cjeeKy+A5HqQNwzFEOp1QSY0nhoGvm6R4jzEHsPAe6+frHgMYxmmni9GCjNhKOIJVeaQUhmGkTBGzTGWERLXtG42UpiJDyFVNgZGuIFpVCQgNXkLpDADX5xzF9xcGKpd9EphBniK+dE0XBL8ZcXeq8b+VIV7OuERT5XX0BwwbgjhvnqBBpKSl8KLInUa2mGBbjoOINz3eMvMLUaAKqsgbKmqN8GQ7hdrYc7WRlhB2AQ3nXX0GkIY1Wl+waT5H01Idx+lUBcdTVuoG2b/aM4Nqz4agFrD8DaLMZGVIU1ePVfI0tFA02EOOwcSaxB48k2uquPbMYZf50X+5jAn3HQ4r8cIf+t0lkhHSj3hRlEeyzuwfPwWbhqDyDrwGnh+i0bB6oHp3LjuH83xIgmv4cVe655AH3GHzGyudfkoEeO7dUiPEjqx+aNEEGzhMxJe88DSOVA4mz8jLYQdAkkKIX1L82ppCC5sUEKwCl0/1Taex6+j7FMtWKX9/LgOVJwrUIpvk41GgRTGoGCuSDVwG4waBVKoMGW78EsCGSgUUrgOU7x/PxJzrAGGZvcdygZoa3TopUhhDtbYfv0QM8Uax4P789NZhXUIL+7Aj52Hg//FWTTupxZJBwAAAABJRU5ErkJggg==" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Лиды" />
+			<Item Name="LocalizableStrings.ConfigureLeadTypes.Value" Value="Set up customer needs" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Caption" Value="DisqualificationButtonCaption" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Value" Value="Disqualify" />
+			<Item Name="LocalizableStrings.LeadScoredBody.Value" Value="Predictive lead score is {0}" />
+			<Item Name="LocalizableStrings.LeadScoredTitle.Value" Value="Lead &quot;{0}&quot;" />
+			<Item Name="LocalizableStrings.QualifyStatusDistributionCaption.Value" Value="Distribute" />
+			<Item Name="LocalizableStrings.QualifyStatusQualificationCaption.Value" Value="Qualify" />
+			<Item Name="LocalizableStrings.QualifyStatusTranslationForSaleCaption.Value" Value="Proceed to handoff" />
+			<Item Name="LocalizableStrings.ScoreLeadActionCaption.Value" Value="Evaluate predictive score" />
+			<Item Name="LocalizableStrings.ScoreLeadActionGeneralErrorMessage.Value" Value="Action has been finished with failure. You can find details in the application log" />
+			<Item Name="LocalizableStrings.ScoreLeadActionNoModelsErrorMessage.Value" Value="There are no predictive lead scoring models available" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Підписатися на оновлення стрічки" />
+		</Items>
+	</Group>
+</Resources>

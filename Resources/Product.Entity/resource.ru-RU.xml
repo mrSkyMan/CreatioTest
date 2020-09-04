@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.ITSApplication.Caption" Value="Application" />
+			<Item Name="Columns.ITSIndustry.Caption" Value="Industry" />
+			<Item Name="Columns.ITSSalesVolume.Caption" Value="Sales Volume" />
+			<Item Name="Columns.ITSTypeOfClient.Caption" Value="Type of client" />
+			<Item Name="Columns.ITSTypeOfCooperation.Caption" Value="Type of cooperation" />
+		</Items>
+	</Group>
+</Resources>

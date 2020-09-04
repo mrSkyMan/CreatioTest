@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0737c81b-5e22-45a3-aa4e-4f6c45880df3",
+    "Name": "ITSProducer",
+    "ModifiedOnUtc": "\/Date(1583327846000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Виробник",
+    "DependsOn": []
+  }
+}

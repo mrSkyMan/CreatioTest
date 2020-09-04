@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fc05e05b-49ec-4492-a902-d7ea0670c8db",
+    "Name": "ITSIGCcontent",
+    "ModifiedOnUtc": "\/Date(1583327854000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "I+G content",
+    "DependsOn": []
+  }
+}

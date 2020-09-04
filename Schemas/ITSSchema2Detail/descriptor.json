@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b8540a44-348b-422d-9a62-c7c15dea9a36",
+    "Name": "ITSSchema2Detail",
+    "ModifiedOnUtc": "\/Date(1583324349000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема деталі: \"Industry\"",
+    "DependsOn": []
+  }
+}

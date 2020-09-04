@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "6533ed7b-55d5-428d-9c07-a1e39ddd470a",
+    "Name": "RegisterAlternateNamesDetail",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1583404578000)\/",
+    "DependsOn": []
+  }
+}

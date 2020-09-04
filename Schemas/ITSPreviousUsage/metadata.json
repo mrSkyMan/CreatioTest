@@ -1,0 +1,90 @@
+= MetaData.Schema.UId "415ffc15-9eaf-4a80-8805-be788d1cb827"
+= MetaData.Schema.A2 "ITSPreviousUsage"
+= MetaData.Schema.A5 "4610274e-a809-41aa-9a57-9da4b44f6fd0"
+= MetaData.Schema.B6 "6fa00682-e4a7-4b63-9e5a-8cd51bb0ce3e"
+= MetaData.Schema.B8 "7.15.3.1649"
+= MetaData.Schema.EG1.UId "c3059403-42ce-4d60-a0c1-e71c9cb33cfa"
+= MetaData.Schema.EG1.A2 "ITSPreviousUsageEventsProcess"
+= MetaData.Schema.EG1.A5 "4610274e-a809-41aa-9a57-9da4b44f6fd0"
++ MetaData.Schema.EG1.B8 "7.15.3.1649"
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D2 {
+  "UId": "b0f75381-dccb-454c-a5fb-34ba37f09729",
+  "A2": "ITSLead",
+  "A3": "415ffc15-9eaf-4a80-8805-be788d1cb827",
+  "A4": "415ffc15-9eaf-4a80-8805-be788d1cb827",
+  "A5": "4610274e-a809-41aa-9a57-9da4b44f6fd0",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "41af89e9-750b-4ebb-8cac-ff39b64841ec",
+  "E6": true,
+  "E17": "ITSLeadId",
+  "E18": "ITSLeadLeadName"
+}
++ MetaData.Schema.D2 {
+  "UId": "134285bf-b6b3-4b98-b986-7a10d0910092",
+  "A2": "ITSPreviousPrice",
+  "A3": "415ffc15-9eaf-4a80-8805-be788d1cb827",
+  "A4": "415ffc15-9eaf-4a80-8805-be788d1cb827",
+  "A5": "4610274e-a809-41aa-9a57-9da4b44f6fd0",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+}
++ MetaData.Schema.D2 {
+  "UId": "899a179a-7681-4fbf-b60f-7bcf948a46a1",
+  "A2": "ITSSample",
+  "A3": "415ffc15-9eaf-4a80-8805-be788d1cb827",
+  "A4": "415ffc15-9eaf-4a80-8805-be788d1cb827",
+  "A5": "4610274e-a809-41aa-9a57-9da4b44f6fd0",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "4c7a6ead-4eb8-4fc0-863e-98a664569fed",
+  "E6": true,
+  "E17": "ITSSampleId",
+  "E18": "ITSSampleName"
+}
++ MetaData.Schema.D2 {
+  "UId": "a12c9e42-4dbe-4584-a554-8982a0828328",
+  "A2": "ITSSampleNames",
+  "A3": "415ffc15-9eaf-4a80-8805-be788d1cb827",
+  "A4": "415ffc15-9eaf-4a80-8805-be788d1cb827",
+  "A5": "4610274e-a809-41aa-9a57-9da4b44f6fd0",
+  "S2": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+}
++ MetaData.Schema.D2 {
+  "UId": "18b49489-8919-4a7e-8f64-447a2e810ee0",
+  "A2": "ITSOther",
+  "A3": "415ffc15-9eaf-4a80-8805-be788d1cb827",
+  "A4": "415ffc15-9eaf-4a80-8805-be788d1cb827",
+  "A5": "4610274e-a809-41aa-9a57-9da4b44f6fd0",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+}
++ MetaData.Schema.D2 {
+  "UId": "3561b504-e8c8-454b-88d5-85e463f8408d",
+  "A2": "ITSSpecification",
+  "A3": "415ffc15-9eaf-4a80-8805-be788d1cb827",
+  "A4": "415ffc15-9eaf-4a80-8805-be788d1cb827",
+  "A5": "4610274e-a809-41aa-9a57-9da4b44f6fd0",
+  "S2": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","b0f75381-dccb-454c-a5fb-34ba37f09729","134285bf-b6b3-4b98-b986-7a10d0910092","899a179a-7681-4fbf-b60f-7bcf948a46a1","a12c9e42-4dbe-4584-a554-8982a0828328","18b49489-8919-4a7e-8f64-447a2e810ee0","3561b504-e8c8-454b-88d5-85e463f8408d"]
+= MetaData.Schema.D20.A2 "ITSPreviousUsageEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

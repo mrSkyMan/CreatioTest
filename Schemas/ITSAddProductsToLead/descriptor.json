@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2f9c3771-ff94-4e2f-a316-6a91fd902c33",
+    "Name": "ITSAddProductsToLead",
+    "ModifiedOnUtc": "\/Date(1583507946000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Додати продукти в Лід",
+    "DependsOn": []
+  }
+}

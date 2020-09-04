@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b4ae8c56-b91f-4326-a909-7f75e0da87b7",
+    "Name": "ITSTypeOfClient",
+    "ModifiedOnUtc": "\/Date(1571650309000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Type of client",
+    "DependsOn": []
+  }
+}

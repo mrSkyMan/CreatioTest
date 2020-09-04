@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d3082218-3545-4c67-91f7-3dc8e2ae5588",
+    "Name": "ITSSalesVolume",
+    "ModifiedOnUtc": "\/Date(1583319222000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Sales Volume",
+    "DependsOn": []
+  }
+}

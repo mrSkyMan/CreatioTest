@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Previous usage" />
+			<Item Name="Columns.ITSLead.Caption" Value="Лід" />
+			<Item Name="Columns.ITSOther.Caption" Value="Other" />
+			<Item Name="Columns.ITSPreviousPrice.Caption" Value="Previous price" />
+			<Item Name="Columns.ITSSample.Caption" Value="Sample" />
+			<Item Name="Columns.ITSSampleNames.Caption" Value="Sample name" />
+			<Item Name="Columns.ITSSpecification.Caption" Value="Specification" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бізнес-процес" />
+		</Items>
+	</Group>
+</Resources>

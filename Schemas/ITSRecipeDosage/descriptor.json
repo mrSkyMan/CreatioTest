@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2bcea5d7-2923-4914-adab-a00e606296e0",
+    "Name": "ITSRecipeDosage",
+    "ModifiedOnUtc": "\/Date(1583327850000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Recipe/dosage",
+    "DependsOn": []
+  }
+}

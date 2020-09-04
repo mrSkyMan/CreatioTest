@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Industry detail (object)" />
+			<Item Name="Columns.ITSAccount.Caption" Value="Контрагент" />
+			<Item Name="Columns.ITSIndustry.Caption" Value="Industry" />
+			<Item Name="Columns.ITSProduct.Caption" Value="Продукт" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бізнес-процес" />
+		</Items>
+	</Group>
+</Resources>

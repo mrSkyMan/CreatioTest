@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "98780583-9244-4d9d-bcec-ed199e0ed478",
+    "Name": "ITSSendProductSamples",
+    "ModifiedOnUtc": "\/Date(1572450023000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Sending product samples",
+    "DependsOn": []
+  }
+}

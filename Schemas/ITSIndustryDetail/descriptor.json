@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "72028520-b8a8-411b-b739-db9d775789ff",
+    "Name": "ITSIndustryDetail",
+    "ModifiedOnUtc": "\/Date(1583323170000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Base object",
+    "DependsOn": []
+  }
+}

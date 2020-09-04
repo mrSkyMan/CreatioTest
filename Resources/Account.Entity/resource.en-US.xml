@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.ITSAdditionalType.Caption" Value="Additional Type" />
+			<Item Name="Columns.ITSBtoB.Caption" Value="B&amp;B" />
+			<Item Name="Columns.ITSBtoC.Caption" Value="B&amp;C" />
+			<Item Name="Columns.ITSSearchingSource.Caption" Value="Searching Source" />
+			<Item Name="Columns.ITSType.Caption" Value="Type" />
+			<Item Name="Columns.ITSVolume.Caption" Value="Volume (Mt/year)" />
+		</Items>
+	</Group>
+</Resources>

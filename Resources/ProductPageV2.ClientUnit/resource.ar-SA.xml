@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page - Product" />
+			<Item Name="LocalizableStrings.PricesTabCaption.Caption" Value="PricesTabCaption" />
+			<Item Name="LocalizableStrings.SpecificationTabCaption.Caption" Value="SpecificationTabCaption" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Продажа" />
+			<Item Name="Stages.Stage1.Caption" Value="Квалификация" />
+			<Item Name="Stages.Stage2.Caption" Value="Коммерческое предложение" />
+			<Item Name="Stages.Stage3.Caption" Value="Презентация" />
+			<Item Name="Stages.Stage4.Caption" Value="Завершена с проигрышем" />
+			<Item Name="Stages.Stage5.Caption" Value="Завершена с победой" />
+			<Item Name="Stages.Stage6.Caption" Value="Контрактация" />
+			<Item Name="Stages.Stage7.Caption" Value="Надсилання зразків продукції" />
+			<Item Name="Stages.Stage8.Caption" Value="Надсилання інвойсу" />
+		</Items>
+	</Group>
+</Resources>

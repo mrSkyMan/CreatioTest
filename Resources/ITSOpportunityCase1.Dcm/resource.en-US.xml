@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Opportunity" />
+			<Item Name="Stages.Stage1.Caption" Value="Qualification" />
+			<Item Name="Stages.Stage2.Caption" Value="Proposal" />
+			<Item Name="Stages.Stage3.Caption" Value="Presentation" />
+			<Item Name="Stages.Stage4.Caption" Value="Closed lost" />
+			<Item Name="Stages.Stage5.Caption" Value="Closed won" />
+			<Item Name="Stages.Stage6.Caption" Value="Contracting" />
+			<Item Name="Stages.Stage7.Caption" Value="Надсилання зразків продукції" />
+			<Item Name="Stages.Stage8.Caption" Value="Надсилання інвойсу" />
+		</Items>
+	</Group>
+</Resources>

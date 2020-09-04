@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9b45307f-20c9-4145-9355-c280663d655e",
+    "Name": "ITSPrice",
+    "ModifiedOnUtc": "\/Date(1583327858000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Price",
+    "DependsOn": []
+  }
+}

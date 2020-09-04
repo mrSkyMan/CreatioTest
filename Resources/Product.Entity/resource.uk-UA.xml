@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.ITSAminoNitrogenContent.Caption" Value="Amino Nitrogen сontent" />
+			<Item Name="Columns.ITSCompetitor.Caption" Value="Конкурент" />
+			<Item Name="Columns.ITSForm.Caption" Value="Form" />
+			<Item Name="Columns.ITSFreeGlutamicAcid.Caption" Value="Free glutamic acid (sfdm)" />
+			<Item Name="Columns.ITSIGCcontent.Caption" Value="I+G content" />
+			<Item Name="Columns.ITSNaClContent.Caption" Value="NaCl content" />
+			<Item Name="Columns.ITSPrice.Caption" Value="Price" />
+			<Item Name="Columns.ITSProducer.Caption" Value="Виробник" />
+			<Item Name="Columns.ITSRecipeDosage.Caption" Value="Recipe/dosage" />
+			<Item Name="Columns.ITSSolution.Caption" Value="Solution" />
+			<Item Name="Columns.ITSStatus.Caption" Value="Статус" />
+			<Item Name="Columns.ITSTasteProfile.Caption" Value="Taste Profile" />
+			<Item Name="Columns.ITSTotalNitrogen.Caption" Value="Total Nitrogen" />
+		</Items>
+	</Group>
+</Resources>

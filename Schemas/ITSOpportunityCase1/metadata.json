@@ -1,0 +1,355 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "DcmSchemaManager",
+      "UId": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+      "A2": "ITSOpportunityCase1",
+      "A5": "78f5b9a0-1276-4fa2-8fcd-df831a01458c",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "6fa00682-e4a7-4b63-9e5a-8cd51bb0ce3e",
+      "B8": "7.15.0.634",
+      "FJ1": [],
+      "IJ1": true,
+      "BK8": "51b280eb-d8a3-4932-81b9-ef61a0877aab",
+      "EntitySchemaUId": "ae46fb87-c02c-4ae8-ad31-a923cdd994cf",
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+        "A4": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "Stages": [
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "5718e07a-c39a-41e4-af20-f0d156dbf1cf",
+          "A2": "Stage1",
+          "A3": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A4": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A5": "b89bc79a-381e-4e10-9661-05e0e85cb739",
+          "Color": "#8ecb60",
+          "StageRecordId": "c2067b11-0ee0-df11-971b-001d60e938c6",
+          "Elements": []
+        },
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef",
+          "A2": "Stage3",
+          "A3": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A4": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A5": "b89bc79a-381e-4e10-9661-05e0e85cb739",
+          "Color": "#8ecb60",
+          "StageRecordId": "325f0619-0ee0-df11-971b-001d60e938c6",
+          "Elements": []
+        },
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "0219d29b-27f5-418c-814c-3da48d9fa370",
+          "A2": "Stage2",
+          "A3": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A4": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A5": "b89bc79a-381e-4e10-9661-05e0e85cb739",
+          "Color": "#8ecb60",
+          "StageRecordId": "423774cb-5ae6-df11-971b-001d60e938c6",
+          "Elements": []
+        },
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "bf7e7849-a990-47d6-8fcd-4785dc2eedba",
+          "A2": "Stage7",
+          "A3": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A4": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A5": "6fa00682-e4a7-4b63-9e5a-8cd51bb0ce3e",
+          "Color": "#8ecb60",
+          "StageRecordId": "68d07789-5008-4026-9605-2f9883b0ec38",
+          "Elements": []
+        },
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7",
+          "A2": "Stage8",
+          "A3": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A4": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A5": "6fa00682-e4a7-4b63-9e5a-8cd51bb0ce3e",
+          "Color": "#8ecb60",
+          "StageRecordId": "f93c43a3-b91d-4ef2-bd90-fd4fd5936d84",
+          "Elements": []
+        },
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "e47b3bdf-ba03-4131-9125-f18d3a756106",
+          "A2": "Stage6",
+          "A3": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A4": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A5": "b89bc79a-381e-4e10-9661-05e0e85cb739",
+          "Color": "#8ecb60",
+          "StageRecordId": "fb563df2-5ae6-df11-971b-001d60e938c6",
+          "Elements": []
+        },
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da",
+          "A2": "Stage5",
+          "A3": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A4": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A5": "b89bc79a-381e-4e10-9661-05e0e85cb739",
+          "Color": "#8ecb60",
+          "StageRecordId": "60d5310c-5be6-df11-971b-001d60e938c6",
+          "Elements": []
+        },
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "b223ff36-a772-4903-9c1e-b31e88b32526",
+          "A2": "Stage4",
+          "A3": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A4": "ad63fefd-82ed-47d4-bb66-bfe26c23a22b",
+          "A5": "b89bc79a-381e-4e10-9661-05e0e85cb739",
+          "ParentStageUId": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da",
+          "Color": "#ef7e63",
+          "StageRecordId": "a9aafdfe-2242-4f42-8cd5-2ae3b9556d79",
+          "Elements": [],
+          "IsSuccessful": false
+        }
+      ],
+      "Transitions": [],
+      "StageConnections": {
+        "Connections": [
+          {
+            "Source": "5718e07a-c39a-41e4-af20-f0d156dbf1cf",
+            "Target": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef"
+          },
+          {
+            "Source": "5718e07a-c39a-41e4-af20-f0d156dbf1cf",
+            "Target": "0219d29b-27f5-418c-814c-3da48d9fa370"
+          },
+          {
+            "Source": "5718e07a-c39a-41e4-af20-f0d156dbf1cf",
+            "Target": "e47b3bdf-ba03-4131-9125-f18d3a756106"
+          },
+          {
+            "Source": "5718e07a-c39a-41e4-af20-f0d156dbf1cf",
+            "Target": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da"
+          },
+          {
+            "Source": "5718e07a-c39a-41e4-af20-f0d156dbf1cf",
+            "Target": "b223ff36-a772-4903-9c1e-b31e88b32526"
+          },
+          {
+            "Source": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef",
+            "Target": "5718e07a-c39a-41e4-af20-f0d156dbf1cf"
+          },
+          {
+            "Source": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef",
+            "Target": "0219d29b-27f5-418c-814c-3da48d9fa370"
+          },
+          {
+            "Source": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef",
+            "Target": "e47b3bdf-ba03-4131-9125-f18d3a756106"
+          },
+          {
+            "Source": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef",
+            "Target": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da"
+          },
+          {
+            "Source": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef",
+            "Target": "b223ff36-a772-4903-9c1e-b31e88b32526"
+          },
+          {
+            "Source": "0219d29b-27f5-418c-814c-3da48d9fa370",
+            "Target": "5718e07a-c39a-41e4-af20-f0d156dbf1cf"
+          },
+          {
+            "Source": "0219d29b-27f5-418c-814c-3da48d9fa370",
+            "Target": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef"
+          },
+          {
+            "Source": "0219d29b-27f5-418c-814c-3da48d9fa370",
+            "Target": "e47b3bdf-ba03-4131-9125-f18d3a756106"
+          },
+          {
+            "Source": "0219d29b-27f5-418c-814c-3da48d9fa370",
+            "Target": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da"
+          },
+          {
+            "Source": "0219d29b-27f5-418c-814c-3da48d9fa370",
+            "Target": "b223ff36-a772-4903-9c1e-b31e88b32526"
+          },
+          {
+            "Source": "e47b3bdf-ba03-4131-9125-f18d3a756106",
+            "Target": "5718e07a-c39a-41e4-af20-f0d156dbf1cf"
+          },
+          {
+            "Source": "e47b3bdf-ba03-4131-9125-f18d3a756106",
+            "Target": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef"
+          },
+          {
+            "Source": "e47b3bdf-ba03-4131-9125-f18d3a756106",
+            "Target": "0219d29b-27f5-418c-814c-3da48d9fa370"
+          },
+          {
+            "Source": "e47b3bdf-ba03-4131-9125-f18d3a756106",
+            "Target": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da"
+          },
+          {
+            "Source": "e47b3bdf-ba03-4131-9125-f18d3a756106",
+            "Target": "b223ff36-a772-4903-9c1e-b31e88b32526"
+          },
+          {
+            "Source": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da",
+            "Target": "5718e07a-c39a-41e4-af20-f0d156dbf1cf"
+          },
+          {
+            "Source": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da",
+            "Target": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef"
+          },
+          {
+            "Source": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da",
+            "Target": "0219d29b-27f5-418c-814c-3da48d9fa370"
+          },
+          {
+            "Source": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da",
+            "Target": "e47b3bdf-ba03-4131-9125-f18d3a756106"
+          },
+          {
+            "Source": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da",
+            "Target": "b223ff36-a772-4903-9c1e-b31e88b32526"
+          },
+          {
+            "Source": "b223ff36-a772-4903-9c1e-b31e88b32526",
+            "Target": "5718e07a-c39a-41e4-af20-f0d156dbf1cf"
+          },
+          {
+            "Source": "b223ff36-a772-4903-9c1e-b31e88b32526",
+            "Target": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef"
+          },
+          {
+            "Source": "b223ff36-a772-4903-9c1e-b31e88b32526",
+            "Target": "0219d29b-27f5-418c-814c-3da48d9fa370"
+          },
+          {
+            "Source": "b223ff36-a772-4903-9c1e-b31e88b32526",
+            "Target": "e47b3bdf-ba03-4131-9125-f18d3a756106"
+          },
+          {
+            "Source": "b223ff36-a772-4903-9c1e-b31e88b32526",
+            "Target": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da"
+          },
+          {
+            "Source": "bf7e7849-a990-47d6-8fcd-4785dc2eedba",
+            "Target": "5718e07a-c39a-41e4-af20-f0d156dbf1cf"
+          },
+          {
+            "Source": "5718e07a-c39a-41e4-af20-f0d156dbf1cf",
+            "Target": "bf7e7849-a990-47d6-8fcd-4785dc2eedba"
+          },
+          {
+            "Source": "bf7e7849-a990-47d6-8fcd-4785dc2eedba",
+            "Target": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef"
+          },
+          {
+            "Source": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef",
+            "Target": "bf7e7849-a990-47d6-8fcd-4785dc2eedba"
+          },
+          {
+            "Source": "bf7e7849-a990-47d6-8fcd-4785dc2eedba",
+            "Target": "0219d29b-27f5-418c-814c-3da48d9fa370"
+          },
+          {
+            "Source": "0219d29b-27f5-418c-814c-3da48d9fa370",
+            "Target": "bf7e7849-a990-47d6-8fcd-4785dc2eedba"
+          },
+          {
+            "Source": "bf7e7849-a990-47d6-8fcd-4785dc2eedba",
+            "Target": "e47b3bdf-ba03-4131-9125-f18d3a756106"
+          },
+          {
+            "Source": "e47b3bdf-ba03-4131-9125-f18d3a756106",
+            "Target": "bf7e7849-a990-47d6-8fcd-4785dc2eedba"
+          },
+          {
+            "Source": "bf7e7849-a990-47d6-8fcd-4785dc2eedba",
+            "Target": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da"
+          },
+          {
+            "Source": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da",
+            "Target": "bf7e7849-a990-47d6-8fcd-4785dc2eedba"
+          },
+          {
+            "Source": "bf7e7849-a990-47d6-8fcd-4785dc2eedba",
+            "Target": "b223ff36-a772-4903-9c1e-b31e88b32526"
+          },
+          {
+            "Source": "b223ff36-a772-4903-9c1e-b31e88b32526",
+            "Target": "bf7e7849-a990-47d6-8fcd-4785dc2eedba"
+          },
+          {
+            "Source": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7",
+            "Target": "5718e07a-c39a-41e4-af20-f0d156dbf1cf"
+          },
+          {
+            "Source": "5718e07a-c39a-41e4-af20-f0d156dbf1cf",
+            "Target": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7"
+          },
+          {
+            "Source": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7",
+            "Target": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef"
+          },
+          {
+            "Source": "0291e5d9-3e4c-4dad-9755-c69e5a8c04ef",
+            "Target": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7"
+          },
+          {
+            "Source": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7",
+            "Target": "0219d29b-27f5-418c-814c-3da48d9fa370"
+          },
+          {
+            "Source": "0219d29b-27f5-418c-814c-3da48d9fa370",
+            "Target": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7"
+          },
+          {
+            "Source": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7",
+            "Target": "bf7e7849-a990-47d6-8fcd-4785dc2eedba"
+          },
+          {
+            "Source": "bf7e7849-a990-47d6-8fcd-4785dc2eedba",
+            "Target": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7"
+          },
+          {
+            "Source": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7",
+            "Target": "e47b3bdf-ba03-4131-9125-f18d3a756106"
+          },
+          {
+            "Source": "e47b3bdf-ba03-4131-9125-f18d3a756106",
+            "Target": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7"
+          },
+          {
+            "Source": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7",
+            "Target": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da"
+          },
+          {
+            "Source": "a5bf6b99-4c8c-4922-8f78-743d2b94b5da",
+            "Target": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7"
+          },
+          {
+            "Source": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7",
+            "Target": "b223ff36-a772-4903-9c1e-b31e88b32526"
+          },
+          {
+            "Source": "b223ff36-a772-4903-9c1e-b31e88b32526",
+            "Target": "329c9e7a-a2b0-4280-812c-9ecf9155d5f7"
+          }
+        ]
+      },
+      "StageColumnUId": "797ac352-4979-4d28-906f-82feb6dbc9dc",
+      "SystemElements": []
+    }
+  }
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схема розділу: &quot;Ліди&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Ліди" />
+			<Item Name="LocalizableStrings.ConfigureLeadTypes.Value" Value="Налаштувати типи потреб" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Caption" Value="DisqualificationButtonCaption" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Value" Value="Дискваліфікувати" />
+			<Item Name="LocalizableStrings.LeadScoredBody.Value" Value="Інтелектуальний рейтинг ліда становить {0}" />
+			<Item Name="LocalizableStrings.LeadScoredTitle.Value" Value="Лід &quot;{0}&quot;" />
+			<Item Name="LocalizableStrings.QualifyStatusDistributionCaption.Value" Value="Роздподілити" />
+			<Item Name="LocalizableStrings.QualifyStatusQualificationCaption.Value" Value="Кваліфікувати" />
+			<Item Name="LocalizableStrings.QualifyStatusTranslationForSaleCaption.Value" Value="Перевести у продаж" />
+			<Item Name="LocalizableStrings.ScoreLeadActionCaption.Value" Value="Визначити предиктивний рейтинг" />
+			<Item Name="LocalizableStrings.ScoreLeadActionGeneralErrorMessage.Value" Value="Дія завершилась з помилкою. Подробиці - в журналі додатку" />
+			<Item Name="LocalizableStrings.ScoreLeadActionNoModelsErrorMessage.Value" Value="Немає доступних моделей предиктивного скорингу лідів" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Підписатися на оновлення стрічки" />
+		</Items>
+	</Group>
+</Resources>

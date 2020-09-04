@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fcbf7660-fd4a-4579-93fb-fe80327a827d",
+    "Name": "ITSForm",
+    "ModifiedOnUtc": "\/Date(1583327852000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Form",
+    "DependsOn": []
+  }
+}

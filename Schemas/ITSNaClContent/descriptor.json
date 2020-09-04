@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b61443e5-3e42-470d-ae4a-d5dd914ee39d",
+    "Name": "ITSNaClContent",
+    "ModifiedOnUtc": "\/Date(1583327855000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "NaCl content\t",
+    "DependsOn": []
+  }
+}

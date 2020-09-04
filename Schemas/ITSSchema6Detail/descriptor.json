@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "30e0a1b0-8c66-488d-9bc0-8cec640c1df2",
+    "Name": "ITSSchema6Detail",
+    "ModifiedOnUtc": "\/Date(1583420818000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема деталі: \"Samples Received\"",
+    "DependsOn": []
+  }
+}

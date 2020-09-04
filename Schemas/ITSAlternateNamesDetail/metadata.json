@@ -1,0 +1,7 @@
+= MetaData.Schema.UId "0bc4f577-1063-4c30-a5c1-743a619ef819"
+= MetaData.Schema.A2 "ITSAlternateNamesDetail"
+= MetaData.Schema.A5 "4610274e-a809-41aa-9a57-9da4b44f6fd0"
+= MetaData.Schema.B6 "6fa00682-e4a7-4b63-9e5a-8cd51bb0ce3e"
+= MetaData.Schema.B8 "7.15.3.1649"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false
